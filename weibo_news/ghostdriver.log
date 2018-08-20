@@ -1,0 +1,22 @@
+[INFO  - 2018-08-20T01:19:17.980Z] GhostDriver - Main - running on port 51080
+[INFO  - 2018-08-20T01:19:21.871Z] Session [11712170-a417-11e8-a4e0-bb1b8aa60e99] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":false,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-08-20T01:19:21.872Z] Session [11712170-a417-11e8-a4e0-bb1b8aa60e99] - page.customHeaders:  - {}
+[INFO  - 2018-08-20T01:19:21.872Z] Session [11712170-a417-11e8-a4e0-bb1b8aa60e99] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-08-20T01:19:21.872Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 11712170-a417-11e8-a4e0-bb1b8aa60e99
+[INFO  - 2018-08-20T01:24:17.975Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2018-08-20T01:25:59.860Z] Session [11712170-a417-11e8-a4e0-bb1b8aa60e99] - page.onError - msg: KR: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) 升级您的浏览器，以便更好的视频观看体验！ [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-08-20T01:25:59.860Z] Session [11712170-a417-11e8-a4e0-bb1b8aa60e99] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-08-20T01:29:17.980Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-20T01:34:17.993Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-20T01:39:17.993Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-20T01:44:18.027Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-20T01:49:18.027Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-20T01:54:18.027Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-20T01:59:18.027Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-20T02:04:18.027Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+Memory exhausted.
